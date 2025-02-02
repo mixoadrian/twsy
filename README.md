@@ -1,6 +1,8 @@
 
 # 台灣尚勇 TEAM TAIWAN
 ![App Screenshot](https://github.com/mixoadrian/twsy/blob/main/tw_projecttw-twsy-gold.png?raw=true)
+
+## 梗概 Intro
 以字體設計的方式詮釋台灣文化與精神，「台灣」及「尚勇」四字合體而成。
 
 「台灣尚勇」指勇敢、尚武，但同時融合了台灣在地人文的韌性與美感。
@@ -14,6 +16,23 @@ The 4 Kanji characters refers to bravery and martial spirit, but it also blends 
 
 「台湾尚勇」は勇敢さと武道精神を意味しますが、同時に台湾の地域文化の強さと美しさを融合しています。"
 
+### Support My Work  
+
+If you like my work, you can support me at [ko-fi.com](https://ko-fi.com/mixocreative/shop) with a subscription and by purchasing 3D print-ready files.  
+
+You can find my design work portfolio at [Behance](https://behance.net/mixocreative)
+
+### 私の作品を応援してください  
+
+私の作品が気に入ったら、[こちら](https://ko-fi.com/mixocreative/shop)でサブスクリプションや3Dプリント用のファイルを購入してサポートしていただけます。  
+
+私のデザイン作品のポートフォリオは[Behance](https://behance.net/mixocreative)でご覧いただけます。  
+
+### 支持我的作品  
+
+如果你喜歡我的作品，可以在[ko-fi.com](https://ko-fi.com/mixocreative/shop)透過訂閱或購買3D列印檔案來支持我。
+
+你可以在[Behance](https://behance.net/mixocreative)找到我的設計作品集。  
 
 # 作字 Ligature
 
